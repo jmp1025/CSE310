@@ -17,4 +17,4 @@ This program is written using the Python language.
 
 # Useful Websites
 
-* [Web Site Name](https://www.w3schools.com/python/)
+* [W3 Schools](https://www.w3schools.com/python/)
